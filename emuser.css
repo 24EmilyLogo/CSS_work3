@@ -1,0 +1,28 @@
+body{
+    background-color: lightgray;
+}
+.paper{
+    height:11in;
+    width:8.5in;
+    margin:auto;
+    background-color: white;
+}
+.margin{
+    display:inline-block;
+    margin:.75in 1.25in;
+}
+h1{
+    font-family:'Playfair Display';
+    color:#f75d5d;
+    font-size:14px;
+}
+
+p{
+    font-family:'Lato';
+    font-size:10px;
+
+}
+.contactInfo{
+    font-size:9px;
+    display:inline-block;
+}
