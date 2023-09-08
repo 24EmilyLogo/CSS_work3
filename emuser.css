@@ -16,13 +16,30 @@ h1{
     color:#f75d5d;
     font-size:14px;
 }
-
-p{
+h3{
+    font-family:'Playfair Display';
+    font-size:11px;
+}
+span{
+    font-family:'Playfair Display';
+    font-weight:400;
+    font-style: italic;
+}
+.mainFontStyle{
     font-family:'Lato';
     font-size:10px;
-
 }
 .contactInfo{
     font-size:9px;
+    font-family:'Lato';
     display:inline-block;
+}
+.split{
+    display:flex;
+    align-items:space-evenly;
+}
+.date{
+    font-size:9px;
+    font-family:'Lato';
+    color:#666666
 }
