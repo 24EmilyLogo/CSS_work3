@@ -32,11 +32,15 @@ span{
 .contactInfo{
     font-size:9px;
     font-family:'Lato';
-    display:inline-block;
+    display:flex;
+    align-items:space-around;
+    border:1px solid black;
+    margin:0px;
 }
 .split{
-    display:flex;
-    align-items:space-evenly;
+    display:block;
+    border:1px solid black;
+    width:100%;
 }
 .date{
     font-size:9px;
