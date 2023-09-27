@@ -16,45 +16,50 @@ body{
     height:9.5in;
     width:6in
 }
+
+    /*emuser fo stnetnoc*/
+/*naps dna SREDAEH*/
 h1{
     font-family:'Playfair Display';
     color:#f75d5d;
     font-size:14px;
-    border:1px solid black;
+    border:1px solid rgb(198, 178, 26);
 }
 h3{
     font-family:'Playfair Display';
     font-size:11px;
-    border:1px solid black;
+    border:1px solid rgb(39, 198, 31);
 }
 span{
     font-family:'Playfair Display';
     font-weight:400;
     font-style: italic;
-    border:1px solid black;
+    border:1px solid rgb(13, 171, 183);
 }
 .mainFontStyle{
     font-family:'Lato';
     font-size:10px;
-    border:1px solid black;
+    border:1px solid rgb(26, 70, 202);
 }
 .contactInfo{
     font-size:9px;
     font-family:'Lato';
-    display:flex;
-    align-items:space-around;
-    border:1px solid black;
-    margin:0px;
+    display:inline-flex;
+    border:1px solid rgb(136, 34, 219);
+    margin:auto;
 }
 .split{
     display:flex;
-    justify-content:space-around;
-    border:1px solid black;
-    max-width:1000px;
+    justify-content:space-between;
+    border:1px solid rgb(204, 36, 170);
+    max-width:100%;
 }
 .date{
     font-size:9px;
     font-family:'Lato';
     color:#666666;
-    border:1px solid black;
+    border:1px solid rgb(112, 1, 36);
+}
+section{
+    border: 1px solid rgb(0, 80, 86);
 }
