@@ -44,16 +44,22 @@ span{
 .contactInfo{
     font-size:9px;
     font-family:'Lato';
-    display:inline-flex;
+    display:inline;
     border:1px solid rgb(136, 34, 219);
     margin:auto;
 }
 .split{
     display:flex;
-    justify-content:space-between;
     border:1px solid rgb(204, 36, 170);
     max-width:100%;
+    justify-content:space-between;
 }
+/*.split .left{
+    justify-content:flex-start;
+}
+.split .right{
+    justify-content:flex-end;
+}*/
 .date{
     font-size:9px;
     font-family:'Lato';
